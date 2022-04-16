@@ -1,5 +1,6 @@
 name: first_app
-description: A new Flutter project.
+description: This project is a starting point for a recipe app that will launch 
+late in the year 2022.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
