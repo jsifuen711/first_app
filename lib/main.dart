@@ -155,11 +155,11 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           const SizedBox(height: 10.0),
           Stack(
-            Children: <Widget>[
+            children: const <Widget>[
               Padding(
-                
+                padding: EdgeInsets.only(left: 12.0, right: 12.0),
               )
-            ]
+            ],
           )
         ],
       ),
